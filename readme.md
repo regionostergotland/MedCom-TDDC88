@@ -1,3 +1,5 @@
+![](https://github.com/regionostergotland/MedCom-TDDC88/blob/front-end/doc/MedCom-logo.png?raw=true)
+
 MedCom webbapplikation för att från andra vårdgivare akut skicka in bilder m.m. till brännskadejouren för bedömningshjälp.
 Ett studentprojekt i kursen TDDC88 på uppdrag av [Region Östergötland](https://www.regionostergotland.se/)
 
