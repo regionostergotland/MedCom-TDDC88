@@ -1,7 +1,7 @@
 MedCom webbapplikation för att från andra vårdgivare akut skicka in bilder m.m. till brännskadejouren för bedömningshjälp.
 Ett studentprojekt i kursen TDDC88 på uppdrag av [Region Östergötland](https://www.regionostergotland.se/)
 
-Exempel på inehåll i underbiblioteket `doc`
+Exempel på inehåll i underbiblioteket `doc`:
  * Produktpresentation (Powerpoint)
  * Delivery Protocol - en checklista för att underlätta för er att säkerställa att ni får det som överenskommits.
  * Uppdaterad versionen av SRSen som överrensstämmer med den faktiska produkten. 
