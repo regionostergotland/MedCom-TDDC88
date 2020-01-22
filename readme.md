@@ -12,3 +12,7 @@ Exempel på inehåll i underbiblioteket `doc`:
  * "Architecture Notebook".
  * Valuable test results innehåller resultat av beta tester samt kvalitetsresultat
  * "Future Development"-dokument. I denna inkluderas förslag och idéer på framtida utvecklingsmöjligheter av produkten. Det innehåller även underlag för de beslut och val av funktioner som gjorts under projektets gång samt hur produkten kan underhållas och skalas.
+
+Region Östergötland was very satisfied with what was achieved by the student group during the very limited project time available.
+
+![](https://github.com/regionostergotland/MedCom-TDDC88/blob/front-end/doc/MedCom-screenshot.png?raw=true)
