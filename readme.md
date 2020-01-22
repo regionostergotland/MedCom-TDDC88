@@ -7,7 +7,6 @@ Exempel på inehåll i underbiblioteket `doc`:
  * Produktpresentation (Powerpoint)
  * Delivery Protocol - en checklista för att underlätta för er att säkerställa att ni får det som överenskommits.
  * Uppdaterad versionen av SRSen som överrensstämmer med den faktiska produkten. 
- * Vi har som enligt testplanen använt oss av en RTM för att säkerställa spårbarhet samt för att dokumentera resultaten av alla test sessionerna. 
  * Installationsguide
  * Användarguide ("User manual") 
  * "Architecture Notebook".
